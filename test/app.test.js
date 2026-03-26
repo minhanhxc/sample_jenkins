@@ -1,6 +1,5 @@
 'use strict'
-import assert from 'node:assert'
-import { add } from '../src/index.js'
+
 
 const test = require('node:test')
 const assert = require('node:assert')
